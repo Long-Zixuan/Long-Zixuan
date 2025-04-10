@@ -1,5 +1,8 @@
-# LoongLy
-![LoongLy Software](https://gitee.com/zixuan_long/Img/raw/master/LS3_LOW_PIX.png)
+<h1>LoongLy</h1>
+<p align="center">
+    <img width src="https://gitee.com/zixuan_long/Img/raw/master/LS3_LOW_PIX.png">    
+</p>
+
 <center class="half">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=long-zixuan&count_private=true&show_icons=true&locale=cn&include_all_commits=true&v=1"> 
 
