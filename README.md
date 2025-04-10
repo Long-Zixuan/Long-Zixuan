@@ -4,7 +4,7 @@
 </p>
 
 <center class="half">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=long-zixuan&count_private=true&show_icons=true&locale=cn&include_all_commits=true&v=1" width = 57%> 
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=long-zixuan&count_private=true&show_icons=true&locale=cn&include_all_commits=true&v=1" width = 56%> 
 
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=long-zixuan&hide=css,html&layout=compact&langs_count=8" width = 40%>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=long-zixuan&hide=css,html&layout=compact&langs_count=8" width = 39%>
 </center>
