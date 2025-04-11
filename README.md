@@ -6,8 +6,8 @@
 <p>● 本科在读计算机专业大学生/Undergraduate student majoring in computer science</p>
 <p>● 喜欢ACG/Animation、Comic、Game enthusiasts</p>
 <p>● 希望你们喜欢我的软件/Hope you like my software</p>
-<a herf url = "https://space.bilibili.com/402236716">我的B站主页</a>
-<a herf url = "https://www.zhihu.com/people/LoongLy">我的知乎主页</a>
+<a herf = "https://space.bilibili.com/402236716">我的B站主页</a>
+<a herf = "https://www.zhihu.com/people/LoongLy">我的知乎主页</a>
 <center class="half">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=long-zixuan&count_private=true&show_icons=true&locale=cn&include_all_commits=true&v=1"> 
 
