@@ -10,7 +10,7 @@
 <br>
 <p>我的其他账号/My account on other websites</p>
 <p><a href = "https://space.bilibili.com/402236716">B站/bilibili    </a> | <a href = "https://www.zhihu.com/people/LoongLy">知乎/Zhihu</a></p>
-<p><a href = "https://mod.3dmgame.com/u/23059615">三大妈模组站/3dm mod</a> | <a href = "https://modrinth.com/user/LoongLy">Modrinth</a></p>
+<p><a href = "https://modrinth.com/user/LoongLy">Modrinth</a> | <a href = "https://mod.3dmgame.com/u/23059615">三大妈模组站/3dm mod</a></p>
 <p><a href = "https://www.curseforge.com/members/loongly/projects">Curseforge    </a> | <a href = "https://gamebanana.com/members/4326178">香蕉网/Game banana</a></p>
 <center class="half">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=long-zixuan&count_private=true&show_icons=true&locale=cn&include_all_commits=true&v=1"> 
