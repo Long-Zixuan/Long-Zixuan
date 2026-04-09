@@ -13,7 +13,7 @@
 <p><a href = "https://modrinth.com/user/LoongLy">Modrinth</a> | <a href = "https://mod.3dmgame.com/u/23059615">三大妈模组站/3dm mod</a></p>
 <p><a href = "https://www.curseforge.com/members/loongly/projects">Curseforge    </a> | <a href = "https://gamebanana.com/members/4326178">香蕉网/Game banana</a></p>
 <center class="half">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=long-zixuan&count_private=true&show_icons=true&locale=cn&include_all_commits=true&v=1"> 
+  <img align="left" src="https://stats.snowy.moe/api?username=long-zixuan&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=buefy"> 
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=long-zixuan&hide=css,html&layout=compact&langs_count=8">
+  <img align="left" src="https://stats.snowy.moe/api/top-langs/?username=long-zixuan&layout=compact&theme=buefy&exclude_repo=MizukiBlog,Moemu.github.io,waline,Moemu2.0Website,github-readme-stats,Privacy-RSSHub">
 </center>
